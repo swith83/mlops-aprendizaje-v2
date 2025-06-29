@@ -1,0 +1,14 @@
+# Mi Proyecto MLOps en WSL
+
+## 🛠️ Configuración del Entorno
+### Requisitos
+- Windows 10 Home (Build 19045+)
+- WSL 2 con Ubuntu 22.04
+- Docker en WSL (no Docker Desktop)
+
+### Instalación
+1. **Habilitar WSL 2**:
+   ```powershell
+   wsl --install -d Ubuntu
+
+

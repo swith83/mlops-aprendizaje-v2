@@ -1,0 +1,14 @@
+artifact_uri: file:///home/administrador/mlops-project/mlruns/0/f062d332f21c47c1bc48e3175336f709/artifacts
+end_time: 1749919232950
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f062d332f21c47c1bc48e3175336f709
+run_name: skillful-boar-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749919229329
+status: 3
+tags: []
+user_id: administrador
